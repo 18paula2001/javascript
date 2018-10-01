@@ -1,6 +1,3 @@
 # javascript
 
-
-
-
-pu9ihjlkm
+Funciona!!!
